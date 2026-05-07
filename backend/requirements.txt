@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+alembic
+rapidfuzz
+sentence-transformers
+scikit-learn
+python-dotenv
